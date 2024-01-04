@@ -1,0 +1,30 @@
+* {
+  font-family: "Barlow", sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: #333;
+  font-weight: 500;
+}
+
+p {
+  color: #777;
+}
+
+body {
+  background-image: url("https://cdn.pixabay.com/photo/2023/06/01/05/58/ocean-8032698_1280.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.observacao {
+  margin-top: 100px;
+}
+
+.observacao a {
+  text-decoration: none; 
+  color: inherit;
+  font-weight: 600;
+  cursor: pointer; 
+}
